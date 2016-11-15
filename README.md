@@ -5,7 +5,7 @@ This is source for my personal blog and portfolio website [shivakrishna9.github.
 ## Credits
 
 * [Barry Clark](https://github.com/barryclark) for creating [Jekyll-Now](https://github.com/barryclark/jekyll-now) on which this theme is based.
-* [Akshay Agarwal]((https://github.com/AkshayAgarwal007/Jekyll-Mono) - Thanks to the creator.
+* [Akshay Agarwal](https://github.com/AkshayAgarwal007/Jekyll-Mono) - Thanks to the creator.
 
 ## License
 

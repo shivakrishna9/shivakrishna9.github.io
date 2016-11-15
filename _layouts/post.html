@@ -2,6 +2,13 @@
 layout: blog
 ---
 
+<!-- Tags -->
+<ul class="tags">
+  {% for tag in page.tags %}
+    <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
+  {% endfor %}
+</ul>
+
 <article class="post">
  <div class="space-extra-small">
  </div>

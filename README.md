@@ -1,4 +1,4 @@
-##Shiva Krishna Yadav's Blog
+## Shiva Krishna Yadav's Portfolio and Blog website
 
 This is source for my personal blog and portfolio website [shivakrishna9.github.io](http://shivakrishna9.github.io)
 
